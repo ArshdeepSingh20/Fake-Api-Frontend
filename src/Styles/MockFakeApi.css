@@ -1,0 +1,59 @@
+/* MockFakeApi.css */
+
+body {
+  font-family: "Arial", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.website-container {
+  max-width: 800px;
+  margin: 0 auto;
+  color: #000000;
+}
+
+header {
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+main {
+  padding: 20px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: #333;
+}
+
+.intro-section,
+.create-api-section,
+.ready-apis-section,
+.mocki-section {
+  margin-bottom: 20px;
+}
+
+.api-heading {
+  color: #007bff;
+}
+
+.api-description {
+  color: #555;
+}
+
+.api-subheading {
+  color: #333;
+}
+
+.fake-api-container {
+  padding: 20px;
+}
+
+.api-section {
+  margin-top: 20px;
+  border-top: 1px solid #ddd;
+  padding-top: 20px;
+}
